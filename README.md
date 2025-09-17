@@ -46,4 +46,6 @@ AppNamer is a lightweight and powerful application that allows you to **change t
 
 ## Disclaimer
 
-AppNamer is a tool designed for personal customization and is not affiliated with Discord or any other app developers. Use of this application for malicious or deceptive purposes is strictly prohibited.# DiscordQuestPasser
+This tool is intended for educational purposes and personal use. Please respect Discord's terms of service and game publishers' rights when using this application.
+
+The creators and maintainers of this project are not liable for any damages, account suspensions, or other consequences that may arise from using this software. Use at your own risk. This project is not affiliated with, endorsed by, or connected to Discord in any way.# DiscordQuestPasser
