@@ -20,7 +20,7 @@ AppNamer is a lightweight and powerful application that allows you to **change t
 > - _War Thunder: WARTHUNDER\WIN64\ACES.exe_
 > - _Marvel Rivals: SteamLibrary\steamapps\common\MarvelRivals\MarvelGame\Marvel\Binaries\Win64\Marvel-Win64-Shipping.exe_
 > - _Skate: SteamLibrary\steamapps\common\Skate\Skate.exe_
-> - _BORDERLANDS 4: BORDERLANDS4\OAKGAME\BINARIES\WIN64\BORDERLANDS4.exe
+> - _BORDERLANDS 4: BORDERLANDS4\OAKGAME\BINARIES\WIN64\BORDERLANDS4.exe_
 
 ---
 
