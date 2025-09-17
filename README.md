@@ -19,7 +19,7 @@ AppNamer is a lightweight and powerful application that allows you to **change t
 > - _The Finals: SteamLibrary\steamapps\common\The Finals\start_protected_game.exe_
 > - _War Thunder: WARTHUNDER\WIN64\ACES.exe_
 > - _Marvel Rivals: SteamLibrary\steamapps\common\MarvelRivals\MarvelGame\Marvel\Binaries\Win64\Marvel-Win64-Shipping.exe_
-> - _Skate:_
+> - _Skate: SteamLibrary\steamapps\common\Skate\EAAntiCheat.GameServiceLauncher.exe_
 
 ---
 
