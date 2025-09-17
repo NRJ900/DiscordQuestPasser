@@ -2,7 +2,7 @@
 
 ## What is AppNamer?
 
-AppNamer is a lightweight and powerful application that allows you to **change the displayed name of any app** on your device. Whether you want to rename an app for fun, organization, or to mimic another app, AppNamer makes it simple and straightforward.
+AppNamer is a lightweight and powerful application that allows you to **change the name of the app** on your device. Whether you want to rename the app for Discord quest, mimic another app or ,if you find any other use of this app let me know:) , AppNamer makes it simple and straightforward.
 
 ## Key Features
 
